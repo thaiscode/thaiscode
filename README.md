@@ -5,13 +5,12 @@
 
 <div>
   <a href="https://github.com/thaiscode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaiscode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaiscode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiscode&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Rafa-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Thais-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Thais-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
   
   ##
