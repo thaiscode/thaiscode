@@ -1,7 +1,7 @@
-## Oii, eu sou a Thais!
+## Hey, i'm Thais!
 
 - 🔭 I am currently looking for work in junior front end development.
-- 🌱 I’m currently learning about html and css.
+- 🌱 I’m currently learning about html, css and js vanilla.
 
 <div>
   <a href="https://github.com/thaiscode">
