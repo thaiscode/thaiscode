@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente eu curso análise e desenvolvimento de sistemas e procuro um estágio pra atuar na área de desenvolvimento web.
 - 🌱 Meus estudos estão focados nas linguagens javascript, python e C#.
-- <img height="50%" src="https://github.com/thaiscode/thaiscode/assets/83255298/476aa3b6-9687-4137-9e11-74433e1bdaa5"/> Gosto muito de CSS3 e prático minhas habilidades desenvolvendo os projetos oferecidos pelo <a href="https://www.frontendmentor.io/">Front-end mentor</a>
+- ✨ Gosto muito de CSS3 e prático minhas habilidades desenvolvendo os projetos oferecidos pelo <a href="https://www.frontendmentor.io/">Front-end mentor</a>
 
 <div>
   <a href="https://github.com/thaiscode">
