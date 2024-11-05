@@ -1,8 +1,8 @@
 ## Oi, eu sou a Thais!
 
 - 🔭 Atualmente cursando análise e desenvolvimento de sistemas e em busca de um estágio na área de desenvolvimento web.
-- 🌱 Meus estudos estão focados nas linguagens javascript, python e C#.
-- ✨ Gosto muito de CSS3 e pratico minhas habilidades desenvolvendo os projetos oferecidos pelo <a href="https://www.frontendmentor.io/">Front-end mentor</a>
+- 🌱 Meus estudos estão focados em javascript, c# e UX/UI design.
+- ✨ Gosto muito da parte visual dos projetos, por isso meu foco é o front-end. 
 
 <div>
   <a href="https://github.com/thaiscode">
