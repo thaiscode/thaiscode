@@ -1,7 +1,7 @@
 ## Oi, eu sou a Thais!
 
 - 🔭 Atualmente cursando análise e desenvolvimento de sistemas e em busca de um estágio na área de desenvolvimento web.
-- 🌱 Meus estudos estão focados em javascript, c# e UX/UI design.
+- 🌱 Meus estudos estão focados em javascript, C# e UX/UI design.
 - ✨ Gosto muito da parte visual dos projetos, por isso meu foco é o front-end. 
 
 <div>
