@@ -1,7 +1,7 @@
 ## Oi, eu sou a Thais!
 
 - 🔭 Atualmente cursando análise e desenvolvimento de sistemas e em busca de um estágio na área de desenvolvimento web.
-- 🌱 Meus estudos estão focados em javascript, C# e UX/UI design.
+- 🌱 Meus estudos estão focados em javascript, CSS e UX/UI design.
 - ✨ Gosto muito da parte visual dos projetos, por isso meu foco é o front-end. 
 
 <div>
@@ -13,7 +13,6 @@
   <img align="center" alt="Thais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thais-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Thais-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Thais-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Thais-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg">
