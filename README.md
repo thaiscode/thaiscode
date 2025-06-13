@@ -1,8 +1,6 @@
 ## Oi, eu sou a Thais!
 
-- 🔭 Estudante de análise e desenvolvimento de sistemas.
-- 🌱 Meus estudos estão focados em javascript, CSS e UX/UI design.
-- ✨ Gosto muito da parte visual dos projetos, por isso meu foco é o front-end. 
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web. Tenho interesse em front-end, UX/UI design e estou sempre buscando aprender mais sobre JavaScript, CSS e ferramentas como Figma e Git.
 
 <div>
   <a href="https://github.com/thaiscode">
